@@ -1,7 +1,11 @@
-site_url: https://tomatoet.github.io/TomatoET.github.io/  # 替换为你的实际URL
-use_directory_urls: true  # 启用目录URL模式（推荐）
-
 site_name: TomatoET
+ite_author: TomatoET
+# Repository
+#repo_name: yJader/JinBlog
+repo_url: https://github.com/TomatoET/TomatoET.github.io.git
+edit_uri: edit/main/docs
+
+
 theme: 
   name: material
 
