@@ -28,8 +28,10 @@ nav:
   - 开源空间:
     - 开源目录: Open/Open.md
   - 知识分享:
-    - Linux: Blog/Linux/Linux.md  
-    - MCU: Blog/MCU/MCU.md
+    - Linux: 
+      - 第一章: Blog/Linux/Linux.md  
+    - MCU: 
+      - 第一章: Blog/MCU/MCU.md
   - 关于我们:
     - AboutUs: AboutUs.md
   
