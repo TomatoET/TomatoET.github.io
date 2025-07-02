@@ -26,9 +26,10 @@ nav:
   - HelloWorld: index.md
   - 更新动态: ChangeLog.md
 - 开源空间:
-  - 开源目录: Open\Open.md
+  - 开源目录: Open/Open.md
 - 知识分享:
-  - Linux: Blog\Linux\Linux.md
+  - Linux: Blog/Linux/Linux.md
+  - MCU: Blog/MCU/MCU.md
 - 关于我们:
   - AboutUs: AboutUs.md
   
