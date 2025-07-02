@@ -31,7 +31,7 @@ nav:
     - Linux: 
       - 第一章: Blog/Linux/Linux.md  
     - MCU: 
-      - 第一章: Blog/MCU/MCU.md
+      - 第一章: Blog\MCU\STM32.md
   - 关于我们:
     - AboutUs: AboutUs.md
   
