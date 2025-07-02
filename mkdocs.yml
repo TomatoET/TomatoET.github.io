@@ -1,40 +1,4 @@
-site_name: TomatoET
-ite_author: TomatoET
-# Repository
-#repo_name: yJader/JinBlog
-repo_url: https://github.com/TomatoET/TomatoET.github.io.git
-edit_uri: edit/main/docs
-
-
-theme: 
+site_name: My site
+site_url: https://mydomain.org/mysite
+theme:
   name: material
-
-  icon: 
-    logo: material/github
-  plugins:
-  - search:
-      lang:
-        - en
-        - ru
-
-  language: zh
-  palette:
-    primary: black
-
-
-  features:
-    - navigation.instant
-    - navigation.top # 返回顶部按钮
-    - navigation.tabs # 顶部分类标签
-    - search.highlight # 搜索高亮显示
-
-copyright: Copyright @ 2025 TomatoET ALL Rights Reserved
-
-
-
-
-
-nav:
-- 首页:
-  - 介绍: 首页文章\介绍.md
-  - 关于我们: 联系方式.md
