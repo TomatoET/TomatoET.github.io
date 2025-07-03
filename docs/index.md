@@ -1,6 +1,6 @@
 # Hello World!
 Tomato ET
-
+![TomatoET](images/西红柿电子科技.jpg "LOGO")
 ## 开源平台
 [立创开源硬件平台](https://oshwhub.com/tomato_et/works)  
 
