@@ -30,8 +30,10 @@ nav:
   - 知识分享:
     - Linux: 
       - 第一章: Blog/Linux/Linux.md  
-    - test: 
-      - 第一章: Blog/test/test.md
+    - RadioFrequency: 
+      - 第一章: Blog/RadioFrequency/test.md
+    - Android: 
+      - 第一章: Blog/Android/Android.md
   - 关于我们:
     - AboutUs: AboutUs.md
   
