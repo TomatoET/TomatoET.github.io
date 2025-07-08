@@ -32,6 +32,7 @@ nav:
       - 第一章: Blog/Linux/Linux.md  
     - RadioFrequency: 
       - 射频电路设计: Blog/RadioFrequency/RF_Circuit_Design.md
+      - 移动通信: Blog/RadioFrequency/Mobile_Communication.md
     - Android: 
       - 第一章: Blog/Android/Android.md
   - 关于我们:
