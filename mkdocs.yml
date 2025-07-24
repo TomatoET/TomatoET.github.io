@@ -27,7 +27,7 @@ nav:
     - 更新动态: ChangeLog.md
   - 开源空间:
     - 开源目录: Open/Open.md
-    - 模块目录: Open/Open.md
+    - 模块目录: Open/Component.md
   - 知识分享:
     - Linux: 
       - 第一章: Blog/Linux/Linux.md  
