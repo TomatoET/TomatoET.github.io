@@ -36,6 +36,9 @@ nav:
       - 移动通信: Blog/RadioFrequency/Mobile_Communication.md
     - Android: 
       - 第一章: Blog/Android/Android.md
+    - Instrumentation:
+      - 仪器仪表目录: Blog/Instrumentation/Instrumentation.md
+    - Draft: Blog/Draft.md
   - 关于我们:
     - AboutUs: AboutUs.md
   
